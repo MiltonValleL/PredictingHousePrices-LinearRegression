@@ -88,9 +88,9 @@ Based on the standardized coefficients, the most influential factors in the Ames
 
    │   └── AmesHousing.csv      `(Original Dataset)`
 
-├── notebooks/
+├── Notebooks/
 
-│   └── Predicting House Prices - Linear Regression      `(Main analysis and Modeling)`
+│   └── Predicting House Prices - Linear Regression.ipynb      `(Main analysis and Modeling)`
 
 ├── README.md      `(Project documentation)`
 
