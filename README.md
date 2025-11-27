@@ -116,6 +116,8 @@ I am a Data Science enthusiast passionate about Machine Learning and statistical
 
 If you have any questions about this project or would like to connect, feel free to reach out!
 
+<br>
+
 ---
 Author: Milton R. Valle Lora
 
