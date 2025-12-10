@@ -119,9 +119,9 @@ If you have any questions about this project or would like to connect, feel free
 <br>
 
 ---
-Author: Milton R. Valle Lora
+**Author:** Milton Rodolfo Valle Lora
 
-LinkedIn: [Please click here](https://www.linkedin.com/in/miltonvallelora/)
+**LinkedIn:** [Please click here](https://www.linkedin.com/in/miltonvallelora/)
 
 ---
 
